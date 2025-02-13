@@ -1,2 +1,2 @@
-###  Sample Full Stack Project
-##  Note: This is done for educational purposes only.
+##  Sample Full Stack Project
+###  Note: This is done for educational purposes only.
